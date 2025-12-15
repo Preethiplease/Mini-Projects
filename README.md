@@ -1,2 +1,6 @@
 # Mini-Projects
-A collection of my JavaScript mini projects for practice and learning.
+A collection of small front-end and JavaScript projects built to practice core concepts.
+
+## Projects
+- [Calculator](./calculator) (HTML, CSS, JavaScript)
+- More coming soon...
